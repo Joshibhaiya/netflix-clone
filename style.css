@@ -1,7 +1,12 @@
+
+   /* style css is start */
 body{
     background-image: linear-gradient(rgba(0, 0, 0, 0.491), rgba(0, 0, 0, 0.416)) , url(./images/login-bg.jpeg);
     height: 100vh;
 }
+
+
+
 .login-top{
     width: 100vw;
     height: 70px;
@@ -31,3 +36,7 @@ body{
 .form-control{
     box-shadow: none !important;
 }
+
+
+
+/* style css is end */

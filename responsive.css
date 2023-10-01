@@ -1,3 +1,6 @@
+
+/* respopnsive css is start */
+
 @media(max-width:767.98px){
     .netflix-padding-left{
         padding-left: 10px !important;
@@ -78,3 +81,6 @@ button{
       margin-left: 0px !important;
 }
 }
+
+
+/* resposnsive css is end */
